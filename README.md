@@ -5,7 +5,7 @@
 
 ![Newthon GitHub stats](https://github-readme-stats.vercel.app/api?username=neewt19&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neewt19&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neewt19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
